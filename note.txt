@@ -1,0 +1,18 @@
+1/ Cài đặt project :
+    npx create-react-app ten-app
+2/ Chạy project :
+    npm run start
+3/ Flow code của reactjs
+    index.html ( chú ý id="root" )
+    => index.js ( <App /> )
+    => App.js ( chú ý return của function App )
+4/ ReactJS không đọc được HTML , mà chỉ đọc được JSX
+5/ JSX giúp cho chúng ta viết HTML và JS vào 1 file
+6/ Lợi ích và tiêu chí để chia components:
+    - Tái sử dụng ( ưu tiên )
+    - Dễ quản lý và mở rộng ứng dụng
+
+Extension: Reactjs code snippets, ES7 React/Redux/GraphQL/React-Native snippets
+Phím tắt:   rcc     : tạo components class
+            rfce    : tạo components function
+
